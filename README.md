@@ -1,7 +1,7 @@
 # Call Center Data Analysis Dashboard
 ## Project Overview
 This project involves the development of an interactive Power BI dashboard to analyze call center performance metrics. The dashboard provides valuable insights into call center trends, enabling better decision-making and improved customer satisfaction.
-![Dashboard] (img1.png)
+![Call-center-trends] (img1.png)
 ## Key Features
 Total Call Analysis: Displays the total number of calls received and the timestamp of the last call.
 Customer Satisfaction (CSAT): Tracks the overall customer satisfaction rate at 68.07%.
